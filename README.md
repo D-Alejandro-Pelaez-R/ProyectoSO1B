@@ -9,7 +9,7 @@
 
 ### Problema
 
-Una librería necesita crear un programa que clasifique los pedidos encontrados en un archivo "pedidos.txt" por grupos, por IDs y nombres. Además que debe subdividir los pedidos segun el grupo, también debe sumar las IDs de cada pedido, sacar el factorial a cada una de las IDs y transformalas en binario y hexadecimal. Le han ofertado dos alternativas de programas, uno usando hilos y otro con procesos. Determinar que programa es el más eficiente.
+Una librería necesita crear un programa que clasifique los pedidos encontrados en un archivo "pedidos.txt" por grupos, por IDs y nombres. Además que debe subdividir los pedidos segun el grupo, también debe sumar las IDs de cada pedido y sacar su factorial, y transformar las IDs en binario y hexadecimal. Le han ofertado dos alternativas de programas, uno usando hilos y otro con procesos. Determinar que programa es el más eficiente.
 
 ### Ejecución
 
