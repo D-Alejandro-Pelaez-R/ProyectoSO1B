@@ -42,4 +42,5 @@ Para ello en su terminal de linux, ejecute el siguiente comando $ vi version_pth
 
 - La ejecución de las tareas resultó más eficiente en con hilos que con procesos.
 - Se evindeció algunas diferencias entre los programas, como las implementación de sincronización en cada uno, es así, que el progama implemetnado con hilos usó mutex y barreras, mientras que en que el programa implementado con procesos usó semaforos.
-- Se debe diseñar programas basados en hilos al necesitar la ejecución de multiples tareas o tareas mas complejas 
+- Se debe diseñar programas basados en hilos al necesitar la ejecución de multiples tareas o tareas mas complejas
+- Se idintificó una condición de carrera en la impresión de datos por pantalla en el programa basado en hilos, se solucionó agregando mutex para ejecución de este apartado. Por otro lado, se identificó la poca eficiencia de la ejecución de tareas en el programa basado en proceso, esto debido a que se implemento una sincronización separando por tiempos definidos cada proceso; se solucionó implementando un semaforo para los procesos.
