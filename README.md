@@ -37,3 +37,9 @@ Para ello en su terminal de linux, ejecute el siguiente comando $ vi version_pth
 **version_fork:** Al ejecutar el programa podrá observar por pantalla lo siguiente:
 ![fork1](https://github.com/user-attachments/assets/2b62a4d7-addb-457d-883e-c23dd67accaa)
 ![fork2](https://github.com/user-attachments/assets/2aa72697-13c4-45d8-a6aa-22affbe2d1ba)
+
+### Conclusiones
+
+- La ejecución de las tareas resultó más eficiente en con hilos que con procesos.
+- Se evindeció algunas diferencias entre los programas, como las implementación de sincronización en cada uno, es así, que el progama implemetnado con hilos usó mutex y barreras, mientras que en que el programa implementado con procesos usó semaforos.
+- Se debe diseñar programas basados en hilos al necesitar la ejecución de multiples tareas o tareas mas complejas 
