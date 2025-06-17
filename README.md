@@ -20,8 +20,8 @@
 ![Screenshot from 2025-06-16 22-09-04](https://github.com/user-attachments/assets/ccebe278-6b2d-40ff-afa3-52c463359bf6)
 
 Para ello en su terminal de linux, ejecute el siguiente comando $ vi version_fork.c . Observará que se abre un editor de texto, busque la línea de codigo que se muestra en la imagen anterior, luego edite el directorio del codgio por el directorio en el que se encuentra su proyecto. Salga del editor de texto guardando los cambios que realizó. Realize lo mismo para el archivo version_pthread.c
-4. Ejecute el codigo en el terminal de linux. Para ello ejecute el siguiente comando $ gcc version_fork.c -o version_fork , luego ejecute $ ./version_fork . Observer los resultados por pantalla de cada uno de los ejecutables. 
-5. Además, podrá observar que en su repositorio se habrán creado archivos adicionales correspondientes a la ejecución de los programas.
+3. Ejecute el codigo en el terminal de linux. Para ello ejecute el siguiente comando $ gcc version_fork.c -o version_fork , luego ejecute $ ./version_fork . Observer los resultados por pantalla de cada uno de los ejecutables. 
+4. Además, podrá observar que en su repositorio se habrán creado archivos adicionales correspondientes a la ejecución de los programas.
 
 ### Resultados
 
