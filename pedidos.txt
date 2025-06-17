@@ -1,0 +1,8 @@
+A,20230001,Programación en C
+B,20230002,Estructuras de Datos
+C,20230003,Redes de Computadoras
+D,20230004,Sistemas Operativos
+E,20230005,Inteligencia Artificial
+F,20230006,Bases de Datos
+G,20230007,Compiladores
+H,20230008,Seguridad Informática
