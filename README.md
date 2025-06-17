@@ -30,9 +30,9 @@ Para ello en su terminal de linux, ejecute el siguiente comando $ vi version_pth
 ### Resultados
 
 **version_pthread:** Al ejecutar el programa podrá observar en la salida de pantalla de su terminal lo siguiente: 
-![Screenshot from 2025-06-16 23-48-41](https://github.com/user-attachments/assets/9f2fbb95-d261-4b08-ada3-2f0ea08059a9)
-
+![Screenshot from 2025-06-17 01-50-59](https://github.com/user-attachments/assets/ed2b3172-28ab-4289-bb79-acab4732accc)
 
 **version_fork:** Al ejecutar el programa podrá observar por pantalla lo siguiente:
+
 
 
