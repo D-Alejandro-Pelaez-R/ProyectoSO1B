@@ -14,7 +14,7 @@
 ### Ejecución
 
 1. Clone el repositorio en el directorio que desee
-2. Antes de ejecutar el codigo, asegurese de cambiar el directorio donde se encuentra si
+2. Antes de ejecutar el codigo, asegurese de cambiar en el codigo tanto de version_ el directorio donde se encuentra si
 
 ### Resultados
 
