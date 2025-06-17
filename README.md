@@ -22,7 +22,7 @@
 
 Para ello en su terminal de linux, ejecute el siguiente comando $ vi version_pthread.c . Observará que se abre un editor de texto, busque la línea de codigo que se muestra en la imagen anterior, luego edite el directorio del codigo por el directorio en el que se encuentra su proyecto. Salga del editor de texto guardando los cambios que realizó. Realize lo mismo para el archivo version_pthread.c
 
-3. Ejecute el codigo en el terminal de linux. Para ello ejecute el siguiente comando $ gcc version_pthread.c -o version_pthread , luego ejecute $ ./version_pthread . Observer los resultados por pantalla de cada uno de los ejecutables. Repetir el proceso ahora para el ejecutable version_
+3. Ejecute el codigo en el terminal de linux. Para ello ejecute el siguiente comando $ gcc -pthread version_pthread.c -o version_pthread , luego ejecute $ ./version_pthread . Observer los resultados por pantalla de cada uno de los ejecutables. Repetir el proceso ahora para el ejecutable version_fork.c, con la diferencia que se ejecuta el siguiente comando $ gcc -version_fork.c -o version_fork
 
 4. Además, podrá observar que en su repositorio se habrán creado archivos adicionales correspondientes a la ejecución de los programas.
 ![Screenshot from 2025-06-16 23-30-09](https://github.com/user-attachments/assets/17413e9c-94e0-4601-abd2-b8707184b6a8)
@@ -30,7 +30,8 @@ Para ello en su terminal de linux, ejecute el siguiente comando $ vi version_pth
 ### Resultados
 
 **version_pthread.c:** Al ejecutar el programa podrá observar en la salida de pantalla de su terminal lo siguiente: 
-![Screenshot from 2025-06-16 23-29-11](https://github.com/user-attachments/assets/ec377d48-677c-43a0-9235-e07d0e756b75)
+![Screenshot from 2025-06-16 23-48-41](https://github.com/user-attachments/assets/9f2fbb95-d261-4b08-ada3-2f0ea08059a9)
+
 
 **version_fork.c:** Al ejecutar el programa podrá observar por pantalla lo siguiente:
 
