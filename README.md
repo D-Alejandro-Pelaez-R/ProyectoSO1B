@@ -9,7 +9,7 @@
 
 ### Problema
 
-
+Una librería necesita clasificar los pedidos de un archivo "pedidos.txt", por categoría
 
 ### Ejecución
 
