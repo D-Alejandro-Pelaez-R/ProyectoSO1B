@@ -1,0 +1,3 @@
+C,20230003,Redes de Computadoras
+
+Suma de dígitos: 10
